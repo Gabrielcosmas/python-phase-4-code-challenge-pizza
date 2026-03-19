@@ -1,0 +1,13 @@
+# Ignore SQLite database
+server/app.db
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Pipenv & virtualenv
+Pipfile.lock
+.pythonlibs/
+.env
